@@ -151,7 +151,7 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowflake data modeling method.
 
-[Data Model Image Here](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/db918cbf43f361cc487bc5a3217e63bd8f2fc4ec/Resources/BI%20360%20Data%20Model.png)
+[Data Model](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/db918cbf43f361cc487bc5a3217e63bd8f2fc4ec/Resources/BI%20360%20Data%20Model.png)
 
 ### Dashboard designing
 
@@ -170,7 +170,9 @@ In Home Page, all the views button will be available. Users can access any speci
 
 ## Home Page
 
-[Home Page](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Homepage.png)
+<p align="center">
+    <img scr='https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Homepage.png'>
+</p>
 
 ## Finance View
 
@@ -186,11 +188,15 @@ In Home Page, all the views button will be available. Users can access any speci
 
 ## Supply chain View
 
-[Supply Chain View](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Supply%20Chain%20View.png)
+<p align="center">
+    <img src='https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Supply%20Chain%20View.png'>
+</p>
 
 ## Executive View
 
-[Executive View](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Executive%20View.png)
+<p align='center'>
+    <img src='https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Executive%20View.png'>
+</p>
 
 You can find the full report file here : [Report]
 

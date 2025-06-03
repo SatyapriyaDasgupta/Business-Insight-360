@@ -171,7 +171,7 @@ In Home Page, all the views button will be available. Users can access any speci
 ## Home Page
 
 <p align='center'>
-    <img scr='https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Homepage.png'>
+    <img src='https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Homepage.png'>
 </p>
 
 ## Finance View

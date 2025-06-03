@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link]
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzczYzI3NzgtNGQwNy00OTcxLTg5MTAtZjkxNTczNDk5YTVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -151,7 +151,7 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowflake data modeling method.
 
-[Data Model Image Here]
+[Data Model Image Here](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/db918cbf43f361cc487bc5a3217e63bd8f2fc4ec/Resources/BI%20360%20Data%20Model.png)
 
 ### Dashboard designing
 
@@ -168,39 +168,31 @@ In Home Page, all the views button will be available. Users can access any speci
 - Supply chain View
 - Executive View
 
-## Overall Report
+## Home Page
 
-![Overall Report.gif]
-
-## Info Page
-
-![Info.gif]
+[Home Page](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Homepage.png)
 
 ## Finance View
 
-![Finace.gif]
+![Finance View.gif](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/7995319b1beac225a2559e6fdba7ddedf68d8e39/Resources/Finance%20View.gif)
+
 ## Sales View
 
-![Sales.gif]
+![Sales View.gif](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Sales%20View.gif)
 
 ## Marketing View
 
-![Marketing.gif]
+![Marketing View.gif](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Marketing%20View.gif)
 
 ## Supply chain View
 
-![Supply chain.gif]
+[Supply Chain View](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Supply%20Chain%20View.png)
 
 ## Executive View
 
-![Executive.gif]
+[Executive View](https://github.com/SatyapriyaDasgupta/Business-Insight-360/blob/ddaba7d900168348aece82abacdc8c538510cf5c/Resources/Executive%20View.png)
 
-## Products
-
-![Products]
-
-you can find the full report file here : [Report]
-
+You can find the full report file here : [Report]
 
 ## Project Outcome
 
